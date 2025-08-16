@@ -1,4 +1,4 @@
-﻿# ðŸ‘‹ Welcome to my GitHub
+﻿# Welcome to my GitHub
 
 Iâ€™m Jack Walton. These are my projects for the **Deluxe Heater** system.
 
