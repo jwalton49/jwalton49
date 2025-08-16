@@ -1,10 +1,10 @@
 ﻿# Welcome to my GitHub
 
-Iâ€™m Jack Walton. These are my projects for the **Deluxe Heater** system.
+I'm Jack Walton. These are my projects for the **Deluxe Heater** system.
 
 ---
 
-## ðŸ”¹ System Block Diagram
+## System Block Diagram
 
 ![Deluxe Heater Block Diagram](docs/deluxe_heater_block_diagram.png)
 
@@ -16,7 +16,7 @@ Iâ€™m Jack Walton. These are my projects for the **Deluxe Heater** system.
 
 ---
 
-## ðŸ”¹ Projects
+## Projects
 
 ### Firmware
 - [**DeluxeHeater**](https://github.com/jwalton49/DeluxeHeater)  
@@ -31,7 +31,7 @@ Iâ€™m Jack Walton. These are my projects for the **Deluxe Heater** system.
 
 ---
 
-## ðŸ”¹ Release Conventions
+## Release Conventions
 - **Firmware tags:** w-<project>-vX.Y.Z  
   Example: w-DeluxeHeater-v8.40
 - **PCB tags:** pcb-<board>-R<rev>  
@@ -39,10 +39,10 @@ Iâ€™m Jack Walton. These are my projects for the **Deluxe Heater** system.
 
 ---
 
-## ðŸ”¹ Toolchains & CAD
-- Firmware: **Keil ÂµVision 5.x**, **Simplicity Studio 5/6 (8051 support)**  
+##  Toolchains & CAD
+- Firmware: **Keil µVision 5.x**, **Simplicity Studio 5/6 (8051 support)**  
 - Hardware: **Altium Designer 20.2.7**
 
 ---
 
-âœ¨ Thanks for visiting!
+¨ Thanks for visiting!
