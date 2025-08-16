@@ -25,9 +25,9 @@ I'm Jack Walton. These are my projects for the **Deluxe Heater** system.
   Display firmware running on a C8051F38x
 
 ### Hardware (Altium Designer 20.2.7)
-- [**MainBoardPCB**](https://github.com/jwalton49/MainBoardPCB) â€“ central controller PCB  
-- [**FrontPanelPCB**](https://github.com/jwalton49/FrontPanelPCB) â€“ user interface PCB  
-- [**ThermocouplePCB**](https://github.com/jwalton49/ThermocouplePCB) â€“ sensor interface PCB
+- [**MainBoardPCB**](https://github.com/jwalton49/MainBoardPCB) central controller PCB  
+- [**FrontPanelPCB**](https://github.com/jwalton49/FrontPanelPCB)  user interface PCB  
+- [**ThermocouplePCB**](https://github.com/jwalton49/ThermocouplePCB) sensor interface PCB
 
 ---
 
