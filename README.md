@@ -9,10 +9,10 @@ I'm Jack Walton. These are my projects for the **Deluxe Heater** system.
 ![Block Diagram](docs/deluxe_heater_block_diagram.png)
 
 **Connections**
-- **MainBoard (C8051F380)** â†” **DisplayDriver2 (C8051F38x)** via **UART**
-- **MainBoard (C8051F380)** â†” **Thermocouple PCB** via **SPI**
-- **MainBoard (C8051F380)** â†” **FrontPanel PCB** via **GPIO/Ribbon**
-- **DisplayDriver2** â†” **Display** (screen interface)
+- **MainBoard (C8051F380)** **DisplayDriver2 (C8051F38x)** via **UART**
+- **MainBoard (C8051F380)**  **Thermocouple PCB** via **SPI**
+- **MainBoard (C8051F380)** **FrontPanel PCB** via **GPIO/Ribbon**
+- **DisplayDriver2**  **Display** (screen interface)
 
 ---
 
