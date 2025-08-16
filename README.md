@@ -20,7 +20,7 @@ I'm Jack Walton. These are my projects for the **Deluxe Heater** system.
 
 ### Firmware
 - [**DeluxeHeater**](https://github.com/jwalton49/DeluxeHeater)  
-  Main control firmware (current tag: w-DeluxeHeater-v8.40)
+  Main control firmware (current tag: DeluxeHeater-v8.40)
 - [**DisplayDriver2**](https://github.com/jwalton49/DisplayDriver2)  
   Display firmware running on a C8051F38x
 
