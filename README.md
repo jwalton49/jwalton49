@@ -6,7 +6,7 @@ I'm Jack Walton. These are my projects for the **Deluxe Heater** system.
 
 ## System Block Diagram
 
-[Deluxe Heater Block Diagram](docs/deluxe_heater_block_diagram.png)
+![Block Diagram](docs/deluxe_heater_block_diagram.png)
 
 **Connections**
 - **MainBoard (C8051F380)** â†” **DisplayDriver2 (C8051F38x)** via **UART**
