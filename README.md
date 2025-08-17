@@ -1,7 +1,5 @@
 ﻿# Welcome to my GitHub
 
-I'm Jack Walton. These are my projects for the **Deluxe Heater** system.
-
 ---
 
 ## System Block Diagram
@@ -17,7 +15,6 @@ I'm Jack Walton. These are my projects for the **Deluxe Heater** system.
 - **MainBoard (C8051F380)** ↔ **FrontPanelPCB** via GPIO / Ribbon cable  
 - **DisplayDriver2** ↔ **Display** (screen interface)
 
-![Block Diagram](docs/deluxe_heater_block_diagram.png)
 
 ---
 
